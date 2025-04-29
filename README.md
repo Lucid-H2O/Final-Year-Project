@@ -1,7 +1,3 @@
-frontend 
+COMP 4801 Final Year Project 
 
-cd my-app
-npm i
-npm run dev
-
-python server
+Sentiment Analysis Using Natural Language Processing
